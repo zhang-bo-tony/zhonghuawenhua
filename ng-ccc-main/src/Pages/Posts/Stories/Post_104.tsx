@@ -9,7 +9,7 @@ const Post_104:Template_Page = {
         key: "post_104",
         brief: "在香港，海洋公園的大熊貓陪伴着一代代青少年快樂成長，帶來許多美好回憶，也成為香港連接祖國的情感紐帶。2024年，香港熊貓家族更是喜事連連，六隻可愛的大熊貓在全港掀起了「熊貓熱」。",
         latest_update: [2025,1,27],
-        cover: "https://nfs-cms.oss-cn-hongkong.aliyuncs.com/suepccc/panda/24.jpg",
+        cover: "https://nfs-cms.oss-cn-hongkong.aliyuncs.com/suepccc/cover/pandacover.jpg",
         label: undefined,
         front: undefined,
         showHeader: undefined,
