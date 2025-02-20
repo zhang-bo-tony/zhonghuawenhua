@@ -4,6 +4,7 @@ import Post_100 from "./Post_100";
 import Post_101 from "./Post_101";
 import Post_102 from "./Post_102";
 import Post_103 from "./Post_103";
+import Post_104 from "./Post_104";
 import Post_11 from "./Post_11";
 import Post_12 from "./Post_12";
 import Post_13 from "./Post_13";
@@ -124,6 +125,7 @@ const Stories = {
   Post_101,
   Post_102,
   Post_103,
+  Post_104,
 };
 
 export default Stories

@@ -3,23 +3,23 @@ import Template_News from "../_Templates/Template_News";
 const AllNews: { [key: string]:  Template_News} = {
   news_3: {
     info: {
-      title: "「中華文化有意思」發布會暨體驗日 非遺手工令人大開眼界",
-      key: "https://www.hkcd.com.hk/hkcdweb/content/2024/06/06/content_8641424.html",
-      date: [2024, 8, 9],
-      publication: "香港商報網",
-      cover: "https://www.hkcd.com.hk/image/202406/202406061734241058394004.jpg",
-      brief: "融合出版項目「中華文化有意思」品牌發布會暨體驗日於今日（6日）在北角舉行。多位教育界和出版界人士受邀出席，包括聯合電子出版有限公司董事總經理周晟、教育局中小學中國語文課程專責委員會（加強中國文學及文化）主席招祥麒、身兼香港學校圖書館主任協會會長的弘立書院小學圖書館館長黃毅娟等。聯合出版集團副董事長兼總裁李濟平則以視像形式發表致辭。"
+      title: "國情教育｜對話策展人：了解國家高科技成就 培養國家歸屬感",
+      key: "https://mp.weixin.qq.com/s/Buzseazu2BdNdCLQB5wt4Q",
+      date: [2024, 11, 19],
+      publication: "知書HK",
+      cover: "",
+      brief: "由一站式電子閱讀平台「知書閱聽圖書館」及文化科技品牌「中華文化有意思」共同策劃的「國家高科技發展成就元宇宙沉浸式體驗展」已於11月全新上線，運用「文化+科技」的理念、多元的閱讀方式及生動的體驗項目，帶你深度認識我們的國家及世界發展大勢。"
     },
   },
 
   news_4: {
     info: {
-      title: "融合出版品牌「中華文化有意思」發布 前沿科技助力傳播中華經典",
-      key: "https://www.orangenews.hk/dearson/1224981/%E8%9E%8D%E5%90%88%E5%87%BA%E7%89%88%E5%93%81%E7%89%8C-%E4%B8%AD%E8%8F%AF%E6%96%87%E5%8C%96%E6%9C%89%E6%84%8F%E6%80%9D-%E7%99%BC%E5%B8%83-%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80%E5%8A%A9%E5%8A%9B%E5%82%B3%E6%92%AD%E4%B8%AD%E8%8F%AF%E7%B6%93%E5%85%B8.shtml",
-      date: [2024, 6, 9],
-      publication: "橙新聞",
-      cover: "https://cdn.orangenews.hk/common/2024/06/06/fcd5a23e9f8146c9ace7d501aefbdd92.jpg?x-oss-process=style/w960",
-      brief: "6月6日，聯合出版集團旗下聯合電子出版聯同聯合新零售推展的「中華文化有意思」融合出版項目品牌發佈會暨體驗日活動舉行。此項目順應Web 3.0時代傳播新特徵，虛實結合，通過紙本書、電子書、音視頻、AI、VR、AR、MR、文創、手工等多種形態，向青少年展現中華文化的美好和趣味，激發青少年帶着興趣學習了解中華文化的豐富內涵。"
+      title: "HELBLING English｜風靡歐洲的英文分級讀物·學好英文原來有跡可循",
+      key: "https://mp.weixin.qq.com/s/Qmm9JAPX4T14nIVf3A6v6A",
+      date: [2025, 2, 17],
+      publication: "知書HK",
+      cover: "",
+      brief: "想要流暢地閱讀英文著作、寫出一手地道的英文文章，具備堅實的詞彙基礎、良好的語法知識以及定期閱讀適合自己英文水平的材料來提升理解能力，都是打好英文學習基礎必不可少的環節。"
     }
   },
 
@@ -36,12 +36,12 @@ const AllNews: { [key: string]:  Template_News} = {
 
   news_6: {
     info: {
-      title: "聯合出版集團融合出版品牌「中華文化有意思」在港發布",
-      key: "https://www.wenweipo.com/a/202406/06/AP6661ae0de4b0a7ef3f043067.html",
-      date: [2024,6,6],
-      publication: "文匯網",
-      cover: "https://dw-media.wenweipo.com/dams/wwpproduct/image/202406/06/6661aa9de4b0fd6f3efcf6cc1.jpg",
-      brief: "聯合出版集團旗下聯合電子出版聯同聯合新零售推展 「中華文化有意思」融合出版項目，致力於以數字科技促進中華文化全球傳播。項目順應 Web3.0時代傳播新特徵，虛實結合，通過紙本書、電子書、音視頻、AI、VR 、 AR、MR、文創、手工等多種形態，向青少年展現中華文化的美好和趣味，激發青少年 帶着興趣學習了解中華文化的豐富內涵。今日， 品牌發布會暨體驗日活動於聯合出版大廈舉行。"
+      title: "“在九龍城 閱見香港”入選“探元計劃 2024”，用最新數字技術再現九龍寨城中華文脈",
+      key: "https://mp.weixin.qq.com/s/yT6SapKVEfQKX8lLDTlOpA",
+      date: [2024,12,3],
+      publication: "知書HK",
+      cover: "",
+      brief: "11月28日，由聯合出版集團策劃和申報的“在九龍城 閱見香港”場景正式入選“探元計劃2024”。探元計劃是國家文物局科技教育司指導，由中國文物信息咨詢中心、騰訊SSV數字文化實驗室、騰訊研究院、社會價值投資聯盟（深圳）發起，運用前沿數字科技煥活文化遺產的共創孵化項目。"
     }
   },
 
